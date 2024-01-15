@@ -11,3 +11,6 @@ Natural Language Processing (NLP): Leveraging NLP techniques, the system preproc
 
 Real-time Prediction: The trained LSTM model is capable of making real-time predictions, providing swift identification of hate speech instances in various contexts, including online conversations and social media.
 
+
+#Dataset
+https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset
